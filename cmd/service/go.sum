@@ -1,6 +1,7 @@
-github.com/owais/demo-contrib v0.0.0-20190613185555-d377f8983148 h1:IVsF9+qM2Yh33gIa2meJ8MZO8YGUZDvx4Q3im0kJHq8=
-github.com/owais/demo-contrib v0.0.0-20190613185555-d377f8983148/go.mod h1:DhMF8wFhn2m0vm08uCZwEzofmub/Z31gGDRkuvoaqcs=
-github.com/owais/demo-internal v0.0.0-20190613190027-ae65499677bf h1:t4r0D8xQJWxwPf7MSDgZm4i/WdOP9qgr3HM/1EC4MLY=
-github.com/owais/demo-internal v0.0.0-20190613190027-ae65499677bf/go.mod h1:pCEtn9srkjtUQ2uI9o2HnDQu5lqV7w7JiHe2E5bIb7I=
-github.com/owais/demo-service v0.0.0-20190613185715-a035874fc37e h1:95V7SOiuEp4M+FpUVCiLK5gO+sZPfePZjHCvnThlx24=
-github.com/owais/demo-service v0.0.0-20190613185715-a035874fc37e/go.mod h1:MiWkbGHxMoiBVJcRjxbDvAVmh8YDqJqisi3dj8NKD1g=
+github.com/owais/demo-contrib v0.0.0-20190613193153-ac4f35757c44 h1:QbzbNFcLyC9fNOOfUw/Ku6YAfVooCapFnJ6sTCxr7/s=
+github.com/owais/demo-contrib v0.0.0-20190613193153-ac4f35757c44/go.mod h1:8Jm+WJKCWO46k73wGAy5x9uHbuDQVSUxnkEtBOVQlVg=
+github.com/owais/demo-internal v0.0.0-20190613192322-ff912f1b648c h1:agSna0loVythzhS9nV3shPopDt2lQq3B62XY7wOGm0g=
+github.com/owais/demo-internal v0.0.0-20190613192322-ff912f1b648c/go.mod h1:JR1CS3I+URNgQygMkSoNyKx5PlQmkdEsoeir1bsyW64=
+github.com/owais/demo-service v0.0.0-20190613192838-7b69d8aac58b/go.mod h1:002vNkYTr7aU35dAqbvYWNtUDmRMHAzqUDH6vaRku+8=
+github.com/owais/demo-service v0.0.0-20190613193317-bbac8118ab96 h1:jY9oZ5oIufBHaEyCRTIynH7uCeQwi2JeSXb+p3mNDC8=
+github.com/owais/demo-service v0.0.0-20190613193317-bbac8118ab96/go.mod h1:002vNkYTr7aU35dAqbvYWNtUDmRMHAzqUDH6vaRku+8=
