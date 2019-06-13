@@ -1,0 +1,6 @@
+github.com/owais/demo-contrib v0.0.0-20190613185555-d377f8983148 h1:IVsF9+qM2Yh33gIa2meJ8MZO8YGUZDvx4Q3im0kJHq8=
+github.com/owais/demo-contrib v0.0.0-20190613185555-d377f8983148/go.mod h1:DhMF8wFhn2m0vm08uCZwEzofmub/Z31gGDRkuvoaqcs=
+github.com/owais/demo-internal v0.0.0-20190613190027-ae65499677bf h1:t4r0D8xQJWxwPf7MSDgZm4i/WdOP9qgr3HM/1EC4MLY=
+github.com/owais/demo-internal v0.0.0-20190613190027-ae65499677bf/go.mod h1:pCEtn9srkjtUQ2uI9o2HnDQu5lqV7w7JiHe2E5bIb7I=
+github.com/owais/demo-service v0.0.0-20190613185715-a035874fc37e h1:95V7SOiuEp4M+FpUVCiLK5gO+sZPfePZjHCvnThlx24=
+github.com/owais/demo-service v0.0.0-20190613185715-a035874fc37e/go.mod h1:MiWkbGHxMoiBVJcRjxbDvAVmh8YDqJqisi3dj8NKD1g=
